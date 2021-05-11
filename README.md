@@ -27,3 +27,4 @@ Introduce each group member by providing their:
  [Nithya Karepe](https://github.com/KarepeN)
 
 ## Photo
+<img src="Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
