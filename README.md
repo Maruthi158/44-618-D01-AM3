@@ -26,7 +26,7 @@ srisathyamamidala-My future plan is to become a java developer
 [sathya mamidala](https://www.linkedin.com/in/sathya-mamidala-363b6a201/)
 
 ## GitHub profile:
- [Nithya Karepe](https://github.com/KarepeN)\<br>
+ [Nithya Karepe](https://github.com/KarepeN)<br>
  [srisathyamamidala](https://github.com/Maruthi158/44-618-D01-AM3)
 
 ## Photo
