@@ -15,7 +15,7 @@ Anusha Kanagala-  I would like to be called as Anusha 
 
 Priyanka Maruthi- I would like to be called as Priyanka
 
-
+Nithya Karepe- I would like to be called as Nithya
 
 ## Current degree
  srisathyamamidala-I am in second semester of masters in applied computer science 
@@ -23,6 +23,8 @@ Priyanka Maruthi- I would like to be called as Priyanka
   Anusha Kanagala- I'm pursuing my masters second semester in applied computer sciences
   
   Priyanka Maruthi - I'm pursuing my masters second semester in applied computer sciences
+  
+  Nithya Karepe-  I'm pursuing Masters in Applied Computer Science
 
 ##  Past experience
 srisathyamamidala- No past experience. I have completed my undergraduate in 2020
@@ -31,10 +33,14 @@ Anusha kanagala-  I don't have any past experiences
 
 Priyanka Maruthi-4.2 Months as the AWS Devops engineer,Worked on Redshift,Mysql,SQL,PLSQLy,Jira.
 
+Nithya Karepe- I have an experience as an intern at OpsRamp Hyderabad India.Worked on Java, MySQL.
+
 ## Future plans (what kind of work? what role? where?)
 srisathyamamidala-My future plan is to become a java developer
 
 Anusha Kanagala- I would like to work as a full stack developer in leading companies.
+
+Nithya Karepe- I want to work in an IT industry as a Full-Stack Developer.
 
 ## LinkedIn profile:
 [Nithya Karepe](https://www.linkedin.com/in/nithyakarepe/)<br>
@@ -48,7 +54,4 @@ Anusha Kanagala- I would like to work as a full stack developer in leading compa
  [Priyanka](https://github.com/Maruthi158)
 
 ## Photo
-<img src="Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
-<img src="sathyamamidala.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
-<img src="Anusha.jpg" alt="drawing" width="150" style="border-radius:50%" />
-<img src="Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" /> )
+<img src="Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />      <img src="sathyamamidala.jpg" alt="drawing" width="150" style="border-radius:50%" />      <img src="Anusha.jpg" alt="drawing" width="150" style="border-radius:50%" />     <img src="Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" /> )
