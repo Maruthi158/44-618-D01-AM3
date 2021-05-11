@@ -41,7 +41,7 @@ Nithya Karepe- I have an experience as an intern at OpsRamp Hyderabad India.Work
 srisathyamamidala-My future plan is to become a java developer
 
 Anusha Kanagala- I would like to work as a full stack developer in leading companies.
-
+Priyanka Maruthi-I would like to Work as a full stack developer in Amazon.
 Nithya Karepe- I want to work in an IT industry as a Full-Stack Developer.
 
 ## LinkedIn profile:
