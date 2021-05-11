@@ -22,11 +22,11 @@ srisathyamamidala- No past experience. I have completed my undergraduate in 2020
 srisathyamamidala-My future plan is to become a java developer
 
 ## LinkedIn profile:
-[Nithya Karepe](https://www.linkedin.com/in/nithyakarepe/)
+[Nithya Karepe](https://www.linkedin.com/in/nithyakarepe/)<br>
 [sathya mamidala](https://www.linkedin.com/in/sathya-mamidala-363b6a201/)
 
 ## GitHub profile:
- [Nithya Karepe](https://github.com/KarepeN)\
+ [Nithya Karepe](https://github.com/KarepeN)\<br>
  [srisathyamamidala](https://github.com/Maruthi158/44-618-D01-AM3)
 
 ## Photo
