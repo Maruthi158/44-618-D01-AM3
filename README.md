@@ -38,7 +38,7 @@ srisathyamamidala- No past experience. I have completed my undergraduate in 2020
 
 Anusha kanagala-  I don't have any past experiences
 
-Priyanka Maruthi-4.2 Months as the AWS Devops engineer,Worked on Redshift,Mysql,SQL,PLSQLy,Jira.
+Priyanka Maruthi-I have 4.2 Months as the AWS Devops engineer,Worked on Redshift,Mysql,SQL,PLSQLy,Jira.
 
 Nithya Karepe- I have an experience as an intern at OpsRamp Hyderabad India.Worked on Java, MySQL.
 
