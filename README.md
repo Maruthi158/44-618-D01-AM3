@@ -32,12 +32,12 @@ Anusha Kanagala- I would like to work as a full stack developer in leading compa
 
 ## LinkedIn profile:
 [Nithya Karepe](https://www.linkedin.com/in/nithyakarepe/)<br>
-[sathya mamidala](https://www.linkedin.com/in/sathya-mamidala-363b6a201/)
+[sathya mamidala](https://www.linkedin.com/in/sathya-mamidala-363b6a201/)<br>
 [Anusha Kanagala](https://www.linkedin.com/in/anusha-kanagala-894466188/)
 
 ## GitHub profile:
  [Nithya Karepe](https://github.com/KarepeN)<br>
- [srisathyamamidala](https://github.com/Maruthi158/44-618-D01-AM3)
+ [srisathyamamidala](https://github.com/Maruthi158/44-618-D01-AM3)<br>
  [Anusha Kanagala](https://github.com/Anushakanagala)
 
 ## Photo
