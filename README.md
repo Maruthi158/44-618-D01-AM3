@@ -21,9 +21,9 @@ Introduce each group member by providing their:
 
 
 ## LinkedIn profile:
-
+[Nithya Karepe](https://www.linkedin.com/in/nithyakarepe/)
 
 ## GitHub profile:
-
+ [Nithya Karepe](https://github.com/KarepeN)
 
 ## Photo
