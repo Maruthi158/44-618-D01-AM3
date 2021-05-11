@@ -54,7 +54,7 @@ Nithya Karepe- I want to work in an IT industry as a Full-Stack Developer.
 ## GitHub profile:
  [Nithya Karepe](https://github.com/KarepeN)<br>
  [srisathyamamidala](https://github.com/Maruthi158/44-618-D01-AM3)<br>
- [Anusha Kanagala](https://github.com/Anushakanagala)
+ [Anusha Kanagala](https://github.com/Anushakanagala)<br>
  [Priyanka](https://github.com/Maruthi158)
 
 ## Photo
